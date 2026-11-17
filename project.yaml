@@ -24,7 +24,7 @@ repositories:
 
 website: "https://kuasar.io/"
 
-artwork: "https://landscape.cncf.io/logos/kuasar.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kuasar"
 
 adopters:
   path: "https://github.com/kuasar-io/kuasar/blob/main/ADOPTERS.md"
